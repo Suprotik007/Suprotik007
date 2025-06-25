@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi,I'm Suprotik 👋<br><br> -A self taught coder grinding in his 20's to enjoy his 30's.<br><br> -Willing to learn, explore and build things .<br><br>-Willing to work on freelance projects.<br><br> -Want to work together? Feel free to contact.<br><br><br>
+## Hi,I'm Suprotik 👋<br><br> -A self taught coder grinding in his 20's to enjoy his 30's.<br><br> -Willing to learn, explore and build things .<br><br>-Willing to work on freelance projects.<br><br> -Want to work together? Feel free to contact.<br><br><br>
 
 
 ## 🌐 Socials:
