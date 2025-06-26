@@ -2,7 +2,7 @@
 ## Hi,I'm Suprotik 👋<br><br> -A self taught coder grinding in his 20's to enjoy his 30's.<br><br> -Willing to learn, explore and build things .<br><br>-Willing to work on freelance projects.<br><br> -Want to work together? Feel free to contact.<br><br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1386662008518086796) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/suprotik-chowdhury-2984a2352) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csuprotik@gmail.com) 
 
 # 🛠️ Tech Stack:
@@ -17,8 +17,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Suprotik007&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suprotik007&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Suprotik007&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+# 💡 Others
+![LeetCode Stats](https://leetcard.jacoblin.cool/suprotik007?theme=chartreuse&font=Cabin%20Sketch)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Suprotik007&limit=5&theme=merko&combine_all_yearly_contributions=true)
